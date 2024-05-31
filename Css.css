@@ -45,12 +45,3 @@ table {
     font-family: Arial, Helvetica, sans-serif;
     border-radius: 10px;
     }
-@media (max-width: 1200px){ 
-}
-
-@media (min-width: 800px){ 
-
-}
-
-@media (min-width: 320px) and (max-width: 768px) and (orientation: landscape) { 
-}
